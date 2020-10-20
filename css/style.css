@@ -81,12 +81,12 @@ body {
 .desktop-element {
   display: none;
 }
-.swiper-button-prev.none {
+/* .swiper-button-prev.none {
   display: none;
 }
 .swiper-button-next.none {
   display: none;
-}
+} */
 
 .accent-button,
 .accent-btn {
@@ -992,12 +992,12 @@ p {
   .swiper-container {
     width: 600px;
   }
-  .swiper-button-prev.none {
+  /* .swiper-button-prev.none {
     display: block;
   }
   .swiper-button-next.none {
     display: block;
-  }
+  } */
   .front-page {
     padding: 22px 20px 102px 20px;
   }
